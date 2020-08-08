@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DotNetCoreConsoleApp/.vs/DotNetCoreConsoleApp/v16
+/DotNetCoreConsoleApp/DotNetCoreConsoleApp/bin/Debug/netcoreapp3.1
+/DotNetCoreConsoleApp/DotNetCoreConsoleApp/obj
+/DotNetCoreConsoleApp_Tests/bin/Debug/netcoreapp3.1
+/DotNetCoreConsoleApp_Tests/obj
+/DotNetCoreConsoleApp/DotNetCoreConsoleApp.sln.DotSettings.user
